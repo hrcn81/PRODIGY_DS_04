@@ -20,4 +20,3 @@
 5. **Conclusion & Highlights 👌:**
    - Offer a comprehensive sentiment analysis pipeline for Twitter data.
    - Achieve satisfactory model performance, making it a valuable tool for understanding Twitter sentiments.
-   - Incorporate emojis and visualizations to enhance user-friendliness, interpretability, and engagement. 🎉
